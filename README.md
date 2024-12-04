@@ -31,9 +31,12 @@ Para o primeiro projeto de IA generativa o resultado foi ótimo.
 Vídeo: https://studio.d-id.com/share?id=5417268f1192f78e9cc96b449
 
 
+💭 Reflexão 
 
-
-💭 Reflexão
+As IAs generativas nos proporcionam um leque de oportunidades de criação e conhecimentos a um clique de distância. Basta ter curiosidade 
+pra descobrir. Mas é indispensável a vigilância para que tantas possibilidades não ultrapassem o limite da moral e da ética, visto o lado
+obscuro dos seres humanos. No cotidiano bancário é comum vermos a quebra dessas barreiras por seres mal in5ecionados que visam obter vantagens
+em detrimento de outros. Assim, que surjam mais IAs de segurança cibernética, bancária, de dados, de pessoas!!!!
 
 
 
