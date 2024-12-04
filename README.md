@@ -20,18 +20,21 @@ D-ID
 Com os questionamentos apostos fui em busca das possíveis respostas,  que Einstein nos daria, no ChatGPT. Escrevi as perguntas e ele me retornou
 com um parágrafo de resolução. Esta eu transportei diretamente para o D-ID. Nesse app fiz todo o restante do projeto.
 Com o texto em mãos transformei o em voz humana. Após diveeeeeeeeeeeeeersas tentativas o app gerou um robô com caracteristicas de Einstein.
-Ainda não era como o que eu tinha em mente, mas cumpriu a missão proposta. Com o texto, a voz e o avatar prontos foi facil solicitar a criação 
+Ainda não era como o que eu tinha em mente, mas cumpriu a missão proposta. Com o texto, a voz e o robô AInstein prontos foi facil solicitar a criação 
 do vídeo.
 
 
 🚀 Resultados
 
-Para o primeiro projeto de IA o resultado foi ótimo.
+Para o primeiro projeto de IA generativa o resultado foi ótimo.
+
+Vídeo: https://studio.d-id.com/share?id=5417268f1192f78e9cc96b449
 
 
 
 
 💭 Reflexão
+
 
 
 
