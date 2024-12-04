@@ -13,7 +13,7 @@ na criação de um vídeo curto, mas cheio de significado.
 
 ChatGpt
 
-D-ID 
+D -ID 
 
 🧐 Processo de Criação
 
